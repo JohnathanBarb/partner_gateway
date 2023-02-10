@@ -2,6 +2,6 @@
 
 Running
 ```bash
-uvicorn src.app:app
+uvicorn app.main:app
 ```
 

@@ -1,6 +1,6 @@
 from starlette.testclient import TestClient
 from starlette.status import HTTP_200_OK
-from src.app import app
+from app.main import app
 
 
 client = TestClient(app)
