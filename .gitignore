@@ -2,5 +2,7 @@
 __pycache__/
 
 
+report.xml
+
 # pycharm
 .idea/
